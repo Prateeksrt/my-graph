@@ -1,0 +1,14 @@
+.axis line, .axis path {
+    stroke-width: 2px;
+    stroke: #007f8b;
+}
+
+.grid {
+    stroke: #007f8b;
+    stroke-width: 2;
+}
+
+.subGrid {
+    stroke: #007f8b;
+    stroke-width: 0.5;
+}
